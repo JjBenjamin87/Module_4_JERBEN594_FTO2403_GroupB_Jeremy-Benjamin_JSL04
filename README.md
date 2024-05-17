@@ -1,3 +1,5 @@
+JSL04 LOOM VIDEO LINK: [https://www.loom.com/share/1256cd4835b24de4b9de85176a6f9967?sid=b37a2d4b-9776-4948-a4cb-fdd4d57d9c32]
+
 # [JSL04] Submission: Monster Ternary Operator
 
 You will:
